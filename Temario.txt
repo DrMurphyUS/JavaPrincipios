@@ -1,0 +1,52 @@
+1 Vision general de Java y sus uso en la industria
+2 Configuracion del Entorno de desarrollo de java con java 21
+3 Escribiendo y ejecutando tu primer programa en java
+4 Introduccion a Git para control de versiones
+5.1 Variables
+5.2 Tipos de Datos
+5.3 Operadores
+5.4 Clean Code
+6.1 if else
+6.2 switch
+6.3 loops
+7.1 arrays
+7.2 ArrayList
+7.3 Itera Array y Array list
+7.4 Hashmap
+7.5 Array list linked list
+8 Construyendo una calculadora
+9Comprediendo clases
+9.1Atributos
+9.2 Metodos
+9.3 Excepción(trow)
+9.4 Modificadores de Acceso (void, private, protected,static  o public)
+9.5 Que es instancia
+9.6 Ciclo de vida en java
+9.7 New(para crear objeto)
+9.8 Recolector de basura System.gc()
+9.9 Composicion
+10.1 herencia
+10.2 polimorfismo
+10.3 Encapsulación
+11.1 interfases
+11.2 clases abstractas
+12 patrones de diseño relacionados con conceptos de OOP
+13 BLOQUES TRY CATCH
+14.1 EXCEPCIONES CHECKED
+14.2 EXCEPCIONES UNCHECKED
+15 LECTURA Y ESCRITURA DE ARCHIVOS
+16STREAMS Y SUS APLICACIONES IO
+17MANIPULACION DE STRINGS Y FRAMEWORK DE CLEECIONES
+18 GENERICS EN JAVA
+19 Uso de Maven y gradle para construcción de proyectos y gestión de dependencias
+20 introduccion a Junit y testNG para pruebas unitarias
+21 Tecnicas y herramientas comunes de depuración
+22 integraciond de pruebas en el flujo de trabajo de desarrollo
+23 profundizacion en expresiones lambda y functional interfaces
+24 Stream API para manipulación de datos
+25Clase Optional y nueva api de fecha tiempo
+26 Multireading y concurrencia
+27 Concurrencia con completable future
+
+
+
