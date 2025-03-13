@@ -1,0 +1,3 @@
+Hola, este es un archivo de prueba.
+Estamos aprendiendo FileWriter en Java.
+Esta es otra línea agregada al archivo.
